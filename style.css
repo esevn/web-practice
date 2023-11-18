@@ -1345,11 +1345,16 @@ footer{
     
         .home .content h1{
             font-size: 28px;
-            
+            padding: 0px;
+            line-height: 50px;
+        }
+
+        .home .content {
+            margin: 8px;
         }
     
         .home .content h1 span {
-            font-size: 1.5rem;
+            font-size: 1.9rem;
         }
         .menu-btn {
             z-index: 2;
